@@ -4,9 +4,14 @@
 
 ### CS224n: Natural Language Processing with Deep Learning
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+Project Summary: In this project, I use supervised learning models to identify customers who are likely to buy the insurance in the future. Furthermore, I will analyze top factors that influence user decision. 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+Imortance: So our company can know what kind of people should be approached to maximize the insurance sales. And pay more attention on the top factors can increase the purchasing probability.
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]([projects/detect-food-trends-facebook.html](https://colab.research.google.com/drive/1locx92O2D-6hnBHxUe6ACZfU1rmuuHdS#scrollTo=jf_RkD6G8jHF))
+
+For low user growth: use exploratory data analysis to provide more accurate consumer segmentation to develop marketing strategies and personalized content. 
+For the slowed conversion rate: create a classifier model to predict user purchasing probability. so that salespeople can prioritize and focus on users with a high purchasing rate to increase conversion rates. 
 
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
