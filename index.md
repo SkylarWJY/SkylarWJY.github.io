@@ -8,7 +8,7 @@ Project Summary: In this project, I use supervised learning models to identify c
 
 Imortance: So our company can know what kind of people should be approached to maximize the insurance sales. And pay more attention on the top factors can increase the purchasing probability.
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]([projects/detect-food-trends-facebook.html](https://colab.research.google.com/drive/1locx92O2D-6hnBHxUe6ACZfU1rmuuHdS#scrollTo=jf_RkD6G8jHF))
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://colab.research.google.com/drive/1locx92O2D-6hnBHxUe6ACZfU1rmuuHdS#scrollTo=jf_RkD6G8jHF)
 
 For low user growth: use exploratory data analysis to provide more accurate consumer segmentation to develop marketing strategies and personalized content. 
 For the slowed conversion rate: create a classifier model to predict user purchasing probability. so that salespeople can prioritize and focus on users with a high purchasing rate to increase conversion rates. 
