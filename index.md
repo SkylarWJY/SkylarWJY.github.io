@@ -43,16 +43,16 @@ predictor for loan interest rate; Confirmed model robustness and generalizabilit
 Project Summary: Recommender systems are well-studied and proven to provide tremendous values to internet businesses and their consumers; Implemented ALS matrix factorization on 100,000 ratings to provide personalized movies recommendations and developed user-based approaches to handle system cold-start problem with RMSE 0.69; Tuned hyperparameters via Spark ML cross-evaluation toolbox and monitored data processing performance via Spark UI on AWS
 
 **Application: make recommendations to users with given userIds**
+<br>
 <center><img src="images/Movie recommendation.png"></center>
-
+<br>
 **Application: find similar movies for movies with given movieIds**
 <center><img src="images/Find Similar movies.png"></center>
 
 ---
 ### Bank Customer Churn Analysis and Prediction
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ODvtXbbfbjqafrkoD-bI1p6DgP9RcLIe#scrollTo=qWrz8vD0ARGN)
 
 <div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
 <br>
