@@ -35,8 +35,9 @@ Project Summary: I developed the Probability of Default model for investors of a
 
 **Model Performance:** 
 <center><img src="images/Model Performance.png"/></center>
----
+<br>
 
+---
 ## Project Experience
 ### Movie Recommendation Engine Development in Apache Spark
 
