@@ -20,6 +20,7 @@ Importance: For the slowed conversion rate: Creating a classifier model to predi
 **AutoML Performance** 
 
 <center><img src="images/AutoML.png"/></center>
+<br>
 ---
 
 ###  Credit Risk Modeling and Prediction (Probability of Default Model) [Sample Model]
@@ -33,6 +34,7 @@ Project Summary: I developed the Probability of Default model for investors of a
 
 **Model Performance:** 
 <center><img src="images/Model Performance.png"/></center>
+<br>
 ---
 
 ## Project Experience
@@ -48,7 +50,7 @@ Project Summary: Recommender systems are well-studied and proven to provide trem
 <br>
 **Application: find similar movies for movies with given movieIds**
 <center><img src="images/Find Similar movies.png"></center>
-
+<br>
 ---
 ### Bank Customer Churn Analysis and Prediction
 
