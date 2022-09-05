@@ -1,19 +1,17 @@
 # Portfolio
 ---
-## Natural Language Processing
 
-### CS224n: Natural Language Processing with Deep Learning
+### Home Insurance Purchasing Analysis and Prediction 
 
-Project Summary: In this project, I use supervised learning models to identify customers who are likely to buy the insurance in the future. Furthermore, I will analyze top factors that influence user decision. 
+Project Summary: In this project, I use supervised learning models and automate ML to identify customers who are likely to buy the insurance in the future. Furthermore, I will analyze top factors that influence user decision. 
 
-Imortance: So our company can know what kind of people should be approached to maximize the insurance sales. And pay more attention on the top factors can increase the purchasing probability.
+Imortance: For the slowed conversion rate: create a classifier model to predict user purchasing probability. so that salespeople can prioritize and focus on users with a high purchasing rate to increase conversion rates. 
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://colab.research.google.com/drive/1locx92O2D-6hnBHxUe6ACZfU1rmuuHdS#scrollTo=jf_RkD6G8jHF)
 
-For low user growth: use exploratory data analysis to provide more accurate consumer segmentation to develop marketing strategies and personalized content. 
-For the slowed conversion rate: create a classifier model to predict user purchasing probability. so that salespeople can prioritize and focus on users with a high purchasing rate to increase conversion rates. 
+**Establish metadata framework for ease of automation:** 
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+<center><img src="images/Metadata Framework.png"/></center>
 
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
