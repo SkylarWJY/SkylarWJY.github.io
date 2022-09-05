@@ -70,7 +70,7 @@ feature transformation; Trained Logistic Regression, SVM, Random Forest and XGbo
 ### Food Search Engine
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1lDZAcGti1oZjRA62uxHAH7qLyM6vf5_5)
-[![Open Report](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://drive.google.com/drive/folders/1L5t4g9bMJaCH4dVctFUrcBGrhlTpGXLP)
+[![Open Report](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://drive.google.com/file/d/1IS8H72a-sREj0vlmYfxBiRaMwJjw5zQM/view?usp=sharing)
 
 Project Summary: This food search engine is designed to support individual users to explore detailed behind-scene facts of certain food products that match their criteria; Established full-text search functionality with Elasticsearch in combination with MongoDB to query unstructured data sources; Created a Flask front-end interface to form an API connection with backend data-sources as an interactive, web-based point of contact for search queries
 
