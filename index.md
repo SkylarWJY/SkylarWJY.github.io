@@ -20,6 +20,8 @@ Importance: For the slowed conversion rate: Creating a classifier model to predi
 **AutoML Performance** 
 
 <center><img src="images/AutoML.png"/></center>
+<br>
+
 ---
 
 ###  Credit Risk Modeling and Prediction (Probability of Default Model) [Sample Model]
