@@ -74,8 +74,7 @@ feature transformation; Trained Logistic Regression, SVM, Random Forest and XGbo
 ### Food Search Engine
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1lDZAcGti1oZjRA62uxHAH7qLyM6vf5_5)
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)]
-(pdf/Python 1. Food Fact Search Engine Jiayi Wang.pdf)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Python 1. Food Fact Search Engine Jiayi Wang.pdf)
 
 Project Summary: This food search engine is designed to support individual users to explore detailed behind-scene facts of certain food products that match their criteria; Established full-text search functionality with Elasticsearch in combination with MongoDB to query unstructured data sources; Created a Flask front-end interface to form an API connection with backend data-sources as an interactive, web-based point of contact for search queries
 
