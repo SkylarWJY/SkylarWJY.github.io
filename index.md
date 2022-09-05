@@ -1,11 +1,11 @@
 # Portfolio
 ---
 
+## Work Experience Using Sample Version
 ### Customer Purchasing Prediction in Home Insurance Industry [Sample Model]
-
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1locx92O2D-6hnBHxUe6ACZfU1rmuuHdS#scrollTo=jf_RkD6G8jHF)
 
-Project Summary: In this project, I created machine learning models for the home insurance comparison search engine to predict customer purchasing probability,delivered customer insights to sales department with 8% increase in operational efficiency [Random Forest, XGBoost, H2O]
+<div style="text-align: justify"> Project Summary: In this project, I created machine learning models for the home insurance comparison search engine to predict customer purchasing probability,delivered customer insights to sales department with 8% increase in operational efficiency [Random Forest, XGBoost, H2O]</div>
 
 Importance: For the slowed conversion rate: Creating a classifier model to predict user purchasing probability can enable salespeople prioritize and focus on users with a high purchasing rate to increase revenue. 
 
@@ -20,7 +20,6 @@ Importance: For the slowed conversion rate: Creating a classifier model to predi
 **AutoML Performance** 
 
 <center><img src="images/AutoML.png"/></center>
-
 ---
 ###  Credit Risk Modeling and Prediction (Probability of Default Model) [Sample Model]
 
@@ -34,8 +33,9 @@ predictor for loan interest rate; Confirmed model robustness and generalizabilit
 
 **Model Performance:** 
 <center><img src="images/Model Performance.png"/></center>
-
 ---
+
+## Project Experience
 ### Movie Recommendation Engine Development in Apache Spark
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ODvtXbbfbjqafrkoD-bI1p6DgP9RcLIe#scrollTo=qWrz8vD0ARGN)
@@ -52,7 +52,7 @@ Project Summary: Recommender systems are well-studied and proven to provide trem
 ---
 ### Bank Customer Churn Analysis and Prediction
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ODvtXbbfbjqafrkoD-bI1p6DgP9RcLIe#scrollTo=qWrz8vD0ARGN)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1_k66ypxF1X8Cffjjt5Y-iZCsz9T70GCs#scrollTo=Jy5hU5KymPT7)
 
 <div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
 <br>
