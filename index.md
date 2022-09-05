@@ -20,7 +20,6 @@ Importance: For the slowed conversion rate: Creating a classifier model to predi
 **AutoML Performance** 
 
 <center><img src="images/AutoML.png"/></center>
-<br>
 ---
 
 ###  Credit Risk Modeling and Prediction (Probability of Default Model) [Sample Model]
@@ -34,7 +33,6 @@ Project Summary: I developed the Probability of Default model for investors of a
 
 **Model Performance:** 
 <center><img src="images/Model Performance.png"/></center>
-<br>
 ---
 
 ## Project Experience
@@ -50,7 +48,6 @@ Project Summary: Recommender systems are well-studied and proven to provide trem
 <br>
 **Application: find similar movies for movies with given movieIds**
 <center><img src="images/Find Similar movies.png"></center>
-<br>
 ---
 ### Bank Customer Churn Analysis and Prediction
 
@@ -65,12 +62,11 @@ feature transformation; Trained Logistic Regression, SVM, Random Forest and XGbo
 <br>
 **Model Performance:**
 <center><img src="images/Bank churn model performance.png"></center>
-<br>
+---
 
 ### Food Search Engine
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1lDZAcGti1oZjRA62uxHAH7qLyM6vf5_5)
-[![Open Report](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://drive.google.com/file/d/1IS8H72a-sREj0vlmYfxBiRaMwJjw5zQM/view?usp=sharing)
 
 Project Summary: This food search engine is designed to support individual users to explore detailed behind-scene facts of certain food products that match their criteria; Established full-text search functionality with Elasticsearch in combination with MongoDB to query unstructured data sources; Created a Flask front-end interface to form an API connection with backend data-sources as an interactive, web-based point of contact for search queries
 
@@ -80,8 +76,6 @@ Project Summary: This food search engine is designed to support individual users
 <br>
 **Flask Demo:**
 <center><img src="images/Flask Demo.png"></center>
-<br>
-
 ---
 ## Data Science
 
