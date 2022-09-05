@@ -3,9 +3,9 @@
 
 ### Home Insurance Purchasing Analysis and Prediction 
 
-Project Summary: In this project, I use supervised learning models and automate ML to identify customers who are likely to buy the insurance in the future. Furthermore, I will analyze top factors that influence user decision. 
+Project Summary: In this project, I Created machine learning models for the home insurance comparison search engine to predict customer purchasing probability,delivered customer insights to sales department with 8% increase in operational efficiency [Random Forest, XGBoost, H2O]
 
-Imortance: For the slowed conversion rate: create a classifier model to predict user purchasing probability. so that salespeople can prioritize and focus on users with a high purchasing rate to increase conversion rates. 
+Importance: For the slowed conversion rate: Creating a classifier model to predict user purchasing probability can enable salespeople prioritize and focus on users with a high purchasing rate to increase revenue. 
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://colab.research.google.com/drive/1locx92O2D-6hnBHxUe6ACZfU1rmuuHdS#scrollTo=jf_RkD6G8jHF)
 
@@ -13,9 +13,9 @@ Imortance: For the slowed conversion rate: create a classifier model to predict 
 
 <center><img src="images/Metadata Framework.png"/></center>
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+**Random Forest Performance:** 
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/Random Forest Performance.png"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
