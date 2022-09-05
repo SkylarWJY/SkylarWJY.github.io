@@ -1,13 +1,13 @@
 # Portfolio
 ---
 
-### Home Insurance Purchasing Analysis and Prediction 
+### Customer Purchasing Prediction in Home Insurance Industry [Sample Model]
 
-Project Summary: In this project, I Created machine learning models for the home insurance comparison search engine to predict customer purchasing probability,delivered customer insights to sales department with 8% increase in operational efficiency [Random Forest, XGBoost, H2O]
+[![Run in Google Colab](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://colab.research.google.com/drive/1locx92O2D-6hnBHxUe6ACZfU1rmuuHdS#scrollTo=jf_RkD6G8jHF)
+
+Project Summary: In this project, I created machine learning models for the home insurance comparison search engine to predict customer purchasing probability,delivered customer insights to sales department with 8% increase in operational efficiency [Random Forest, XGBoost, H2O]
 
 Importance: For the slowed conversion rate: Creating a classifier model to predict user purchasing probability can enable salespeople prioritize and focus on users with a high purchasing rate to increase revenue. 
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://colab.research.google.com/drive/1locx92O2D-6hnBHxUe6ACZfU1rmuuHdS#scrollTo=jf_RkD6G8jHF)
 
 **Establish metadata framework for ease of automation:** 
 
@@ -17,14 +17,23 @@ Importance: For the slowed conversion rate: Creating a classifier model to predi
 
 <center><img src="images/Random Forest Performance.png"/></center>
 
+**AutoML Performance** 
+
+<center><img src="images/AutoML.png"/></center>
+
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+###  Credit Risk Modeling and Prediction (Probability of Default Model) [Sample Model]
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1k8uA6CvxElndnz3RaMGKCsxke3fNaTY2#scrollTo=TYsteaRmSMsx)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+Project Summary: In this Project, I developed the Probability of Default model for investors of a P2P lending company to assess counterparties’ credit rating; Implemented logistic regression to build a Personal Lending model mapping the default probability to an ordinal rating system as a
+predictor for loan interest rate; Confirmed model robustness and generalizability through backtesting, benchmarking against alternative models, sensitivity tests, and model assumptions testing [Decision Tree, Random Forest, K-fold Cross-validation]
 
-<center><img src="images/BERT-classification.png"/></center>
+**Exploratory Data Analysis:** 
+<center><img src="images/EDA.png"/></center>
+
+**Model Performance:** 
+<center><img src="images/Model Performance.png"/></center>
 
 ---
 ### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
