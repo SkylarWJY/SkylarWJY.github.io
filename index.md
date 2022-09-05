@@ -50,6 +50,8 @@ Project Summary: Recommender systems are well-studied and proven to provide trem
 <br>
 **Application: find similar movies for movies with given movieIds**
 <center><img src="images/Find Similar movies.png"></center>
+<br>
+
 ---
 ### Bank Customer Churn Analysis and Prediction
 
@@ -64,6 +66,8 @@ feature transformation; Trained Logistic Regression, SVM, Random Forest and XGbo
 <br>
 **Model Performance:**
 <center><img src="images/Bank churn model performance.png"></center>
+<br>
+
 ---
 
 ### Food Search Engine
@@ -78,6 +82,8 @@ Project Summary: This food search engine is designed to support individual users
 <br>
 **Flask Demo:**
 <center><img src="images/Flask Demo.png"></center>
+<br>
+
 ---
 ## Data Science
 
