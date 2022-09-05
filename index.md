@@ -3,7 +3,7 @@
 
 ### Customer Purchasing Prediction in Home Insurance Industry [Sample Model]
 
-[![Run in Google Colab](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://colab.research.google.com/drive/1locx92O2D-6hnBHxUe6ACZfU1rmuuHdS#scrollTo=jf_RkD6G8jHF)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1locx92O2D-6hnBHxUe6ACZfU1rmuuHdS#scrollTo=jf_RkD6G8jHF)
 
 Project Summary: In this project, I created machine learning models for the home insurance comparison search engine to predict customer purchasing probability,delivered customer insights to sales department with 8% increase in operational efficiency [Random Forest, XGBoost, H2O]
 
@@ -36,18 +36,20 @@ predictor for loan interest rate; Confirmed model robustness and generalizabilit
 <center><img src="images/Model Performance.png"/></center>
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### Movie Recommendation Engine Development in Apache Spark
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ODvtXbbfbjqafrkoD-bI1p6DgP9RcLIe#scrollTo=qWrz8vD0ARGN)
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
-<br>
-<center><img src="images/fb-food-trends.png"></center>
-<br>
+Project Summary: Recommender systems are well-studied and proven to provide tremendous values to internet businesses and their consumers; Implemented ALS matrix factorization on 100,000 ratings to provide personalized movies recommendations and developed user-based approaches to handle system cold-start problem with RMSE 0.69; Tuned hyperparameters via Spark ML cross-evaluation toolbox and monitored data processing performance via Spark UI on AWS
+
+**Application: make recommendations to users with given userIds**
+<center><img src="images/Movie recommendation.png"></center>
+
+**Application: find similar movies for movies with given movieIds**
+<center><img src="images/Find Similar movies.png"></center>
 
 ---
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
+### Bank Customer Churn Analysis and Prediction
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
