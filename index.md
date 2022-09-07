@@ -37,7 +37,6 @@ Project Summary: I developed the Probability of Default model for investors of a
 <br>
 
 ---
-## Project Experience
 ### Movie Recommendation Engine Development in Apache Spark
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ODvtXbbfbjqafrkoD-bI1p6DgP9RcLIe#scrollTo=qWrz8vD0ARGN)
